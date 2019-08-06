@@ -1,0 +1,9 @@
+[package]
+name = "sample-rs"
+version = "0.1.0"
+authors = ["drozdowsky <hdrozdow+github@pm.me>"]
+edition = "2018"
+
+[dependencies]
+tui = "0.6"
+termion = "1.5"
